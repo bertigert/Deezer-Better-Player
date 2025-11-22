@@ -2,7 +2,7 @@
 QoL improvements for the Deezer player(bar)
 
 ## Installation
-Install with userscript manager of your choice. **Requires** [https://github.com/bertigert/Webpack-Patcher] to be installed as well.
+Install with userscript manager of your choice. **Requires** [WebpackPatcher](https://github.com/bertigert/Webpack-Patcher) to be installed as well.
 
 ## Features:
 Will probably add more in the future
